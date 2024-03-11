@@ -22,7 +22,7 @@ app.use(express.json());
 //setting up swagger api docs
 const swaggerOptions = {
   swaggerDefinition: {
-    openapi: "3.0.0", // Specify the OpenAPI version
+    openapi: "3.0.0",
     info: {
       title: "Movie Lobby API",
       description: "API documentation for managing movies in the lobby",
