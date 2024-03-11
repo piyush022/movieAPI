@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "stembridge-erp",
+  "name": "Movie API",
   "builds": [
     {
       "src": "index.js",

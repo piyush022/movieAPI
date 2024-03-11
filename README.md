@@ -15,6 +15,7 @@ To get started with the API, follow these steps:
 3. Set up a MongoDB database and provide the connection URI in the connection.js file inside db folder OR create a .env file and provide the connection string on a key named DBURL.
 4. Run the application using `npm start`.
 5. Access the API endpoints using tools like Postman or your web browser.
+6. A complete api documentation can be accessed by /api-doc route or https://documenter.getpostman.com/view/25625637/2sA2xiVrFJ (1st is the swagger api documentation and 2nd is postman api documentation)
 
 ## Endpoints
 
